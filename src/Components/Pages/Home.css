@@ -1,0 +1,15 @@
+.card {
+    width: 250px;
+    height: 200px;
+    margin: 40px;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .show-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }

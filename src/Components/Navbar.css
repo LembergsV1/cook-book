@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: purple;
+    color: #fff;
+  }
+  
+  .navbar-search {
+    display: flex;
+    align-items: center;
+  }
+  
+
+
+  
